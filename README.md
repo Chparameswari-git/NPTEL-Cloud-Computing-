@@ -17,3 +17,7 @@ Successfully completed the 12-week NPTEL Cloud Computing course offered by IIT K
 ## 💡 Skills Developed
 
 This course strengthened my understanding of how cloud technologies are designed and used to build **scalable, reliable, secure, and cost-efficient computing solutions**. It also enhanced my **technical problem-solving and analytical skills**.
+
+## 📜 Certificate
+
+[🎓 View NPTEL-Cloud Computing Certificate](./NPTEL-Cloud Computing.pdf)
