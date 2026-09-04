@@ -20,4 +20,4 @@ This course strengthened my understanding of how cloud technologies are designed
 
 ## 📜 Certificate
 
-[View NPTEL Cloud Computing Certificate](./NPTEL-CloudComputing.pdf)
+[View NPTEL Certificate](./NPTEL-CloudComputing.pdf)
